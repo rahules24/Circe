@@ -2,7 +2,12 @@
 
 ![Credit Card Tracker Banner](https://img.shields.io/badge/Credit%20Card%20Tracker-Python-blue?style=for-the-badge)
 
+### Circe: _Your own local, privacy-first credit-card tracker—fetches Gmail PDFs, parses statements with your secure passwords, and serves you slick, colorized summaries in SQLite. No middleman. Just you and your cashflow._
+
 ---
+# Terminal App
+<img width="1323" height="958" alt="Screenshot 2025-08-16 132440" src="https://github.com/user-attachments/assets/bd2dea64-6603-421a-8507-78926f1d000a" />
+
 
 ## 🤔 Why I Created Circe
 
@@ -99,6 +104,10 @@ python main.py
 - The app will process all users listed in `main.py`.
 - If a user is missing a token, you’ll be prompted to authorize Gmail for that user.
 - Parsed bills are shown in a stylish table.
+
+---
+# Output
+<img width="1908" height="937" alt="Screenshot 2025-08-16 132558" src="https://github.com/user-attachments/assets/152c6a24-2313-4eb9-852d-a381d1edf327" />
 
 ---
 
